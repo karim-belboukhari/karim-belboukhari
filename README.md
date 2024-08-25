@@ -25,7 +25,7 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
+<h2 align="center">⚒️ Some of The Languages, and Tools ⚒️</h2>
 
 <br/>
 
