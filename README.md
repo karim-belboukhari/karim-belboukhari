@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+😄+I'm+Karim+Belboukhari!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+All!+😄+I'm+Karim+Belboukhari!" alt="Typing animation that says 'Hi All! 😄 I'm Karim Belboukhari!'" />
 </h1>
 
 <h3 align="center">🚀 Passionate Software Quality Assurance Tester</h3>
@@ -8,8 +8,8 @@
 
 <div align="center">
     <p>🔭 Currently working at <strong>Cnexia</strong></p>
-    <p>🌱 Learning <strong>Google Cloud DevOps</strong></p>
-    <p>⚡ Interesting Insight: <strong>Effective quality assurance significantly reduces development costs and enhances user satisfaction by identifying issues early in the development cycle.</strong></p>
+    <p>🌱 Currently learning <strong>Google Cloud DevOps</strong></p>
+    <p>⚡ Insight: <strong>Effective quality assurance reduces development costs and enhances user satisfaction by identifying issues early in the development cycle.</strong></p>
 </div>
 
 <br/>
@@ -30,15 +30,8 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,selenium,bash,github,git,jenkins,css,html,flask" alt="Languages and Tools" />
-    <img src="https://skillicons.dev/icons?i=gcp,anaconda,powershell,vscode,pycharm,figma,devto,regex,linux,mysql" alt="Frameworks and Tools" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,selenium,bash,github,git,jenkins,css,html,flask" alt="Languages and tools including Python, JavaScript, Selenium, Bash, Git, GitHub, Jenkins, CSS, HTML, Flask" />
+    <img src="https://skillicons.dev/icons?i=gcp,anaconda,powershell,vscode,pycharm,figma,devto,regex,linux,mysql" alt="Frameworks and tools including Google Cloud Platform, Anaconda, PowerShell, VS Code, PyCharm, Figma, Dev.to, Regex, Linux, MySQL" />
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-    <h2>🐍 My Contributions 🐍</h2>
-    <br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/karim-belboukhari/karim-belboukhari/output/github-contribution-grid-snake.svg" />
-</div>
