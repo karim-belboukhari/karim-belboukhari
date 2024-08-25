@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=000000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+All!+%F0%9F%98%84+I%27m+Karim+Belboukhari!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&color=000000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+All!+%F0%9F%98%84+I%27m+Karim+Belboukhari!" />
 </h1>
 
 <h3 align="center">🚀 Passionate Software Quality Assurance Tester</h3>
