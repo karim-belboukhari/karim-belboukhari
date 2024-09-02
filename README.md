@@ -27,11 +27,3 @@
 
 <h2 align="center">⚒️ Some of The Languages, and Tools ⚒️</h2>
 
-<br/>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,selenium,bash,github,git,jenkins,css,html,flask" alt="Languages and tools including Python, JavaScript, Selenium, Bash, Git, GitHub, Jenkins, CSS, HTML, Flask" />
-    <img src="https://skillicons.dev/icons?i=gcp,anaconda,powershell,vscode,pycharm,figma,devto,regex,linux,mysql" alt="Frameworks and tools including Google Cloud Platform, Anaconda, PowerShell, VS Code, PyCharm, Figma, Dev.to, Regex, Linux, MySQL" />
-</div>
-
-<br/>
