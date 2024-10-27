@@ -73,9 +73,6 @@
     <a href="https://www.linkedin.com/in/karim-belboukhari-5b774b18a/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/your-username" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
 </div>
 
 <br/>
