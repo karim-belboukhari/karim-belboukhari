@@ -7,15 +7,15 @@
 <br/>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Current%20Work-Aubay-32CD32?style=flat-square" alt="Current Work" />
-    <img src="https://img.shields.io/badge/Position-Senior%20Tester-FFD700?style=flat-square" alt="Position" />
+    <img src="https://img.shields.io/badge/Current%20Work-Aubay-FFA500?style=flat-square" alt="Current Work" />
+    <img src="https://img.shields.io/badge/Position-Senior%20Test Engenieer-FF0000?style=flat-square" alt="Position" />
     <img src="https://img.shields.io/badge/Experience-4%2B%20Years-1E90FF?style=flat-square" alt="Experience" />
 </div>
 
 <br/>
 
 ### About Me
-🔭 Currently working at **Cnexia**  
+🔭 Currently working at **Aubay Portugal in Lisbon**  
 🌱 Focused on **Automation and Functional Testing**  
 ⚡ Insight: **Effective quality assurance reduces development costs and enhances user satisfaction by identifying issues early in the development cycle.**
 
