@@ -15,7 +15,7 @@
 <br/>
 
 ### About Me
-🔭 Currently working at **Aubay Portugal in Lisbon**  
+🔭 Currently working at **Aubay Portugal and KLx in Lisbon**  
 🌱 Focused on **Automation and Functional Testing**  
 ⚡ Insight: **Effective quality assurance reduces development costs and enhances user satisfaction by identifying issues early in the development cycle.**
 
